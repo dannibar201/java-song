@@ -17,7 +17,13 @@ public class Song {
     public static void main(String[] args) {
         // Code inside the main method
         
+        
+        
             
+    }
+    
+    public static void chorus(){
+        // Chorus lyrics go here
     }
     
 }
